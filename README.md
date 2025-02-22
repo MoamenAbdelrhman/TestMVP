@@ -20,7 +20,7 @@ It fetches meal categories from **TheMealDB API** and allows users to **add/remo
 ```sh
 git clone https://github.com/your-repo/TestMVP.git
 cd TestMVP
-
+```
 🔹 Open in Android Studio
 Open Android Studio
 Click "Open an Existing Project"
@@ -36,5 +36,6 @@ MVP Pattern (Decouples UI from Logic)
 📌 API Used
 This project uses TheMealDB API to fetch meal categories.
 Base URL:
+```sh
 https://www.themealdb.com/api/json/v1/1/
-
+```
