@@ -12,6 +12,19 @@ It fetches meal categories from **TheMealDB API** and allows users to **add/remo
 - ✅ Remove categories from Favorites
 - ✅ Implements **MVP Architecture** (with Presenter)
 
+  ---
+
+## ✅ Benefits of MVP
+- **Better separation of concerns** (UI logic in `View`, business logic in `Presenter`).
+- **Easier to test** (Presenter can be tested independently).
+- **Less bloated Activities**.
+
+## ❌ Drawbacks of MVP
+- **Presenter needs manual lifecycle management**.
+- **More boilerplate code**.
+
+---
+
 ---
 
 ## 🚀 Installation Guide
